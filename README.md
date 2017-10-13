@@ -10,8 +10,8 @@ The API implements basic CRUD model:
 
 The format of the JSON follows [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
-The API provides the following error satus codes, accordingly to [RFC 7231](https://tools.ietf.org/html/rfc7231#section-6):
-- 400 Bad request - the client provided maleformed parameters
+The API provides the following error status codes, accordingly to [RFC 7231](https://tools.ietf.org/html/rfc7231#section-6):
+- 400 Bad request - the client provided malformed parameters
 - 404 Not found - the client requests an operation on record that does not exist or has been deleted
 
 The API is being served from Heroku (https://developer-api-test.herokuapp.com/api/users)
