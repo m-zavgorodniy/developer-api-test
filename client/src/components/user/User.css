@@ -1,0 +1,13 @@
+.User__bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  max-width: 616px;
+  padding: .75em 20px;
+}
+
+.User__hr {
+	margin: -1px 20px;
+	height: 1px;
+	background-color: rgb(224, 224, 224);
+}

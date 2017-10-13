@@ -1,0 +1,30 @@
+.UserList {
+  width: 50%;
+  padding: 20px 0;
+}
+
+.UserList__title {
+  padding: 0 20px;
+}
+
+.UserList__subtitle--delete {
+  color: #a94442;
+}
+
+.UserList__empty {
+  padding: 0 20px;
+}
+
+.UserList__message {
+	padding: 0 20px;
+}
+
+.User__title {
+  font-weight: bold;
+}
+
+.User__subtitle {
+  margin-top: 4px;
+  font-size: .875em;
+  color: rgba(0, 0, 0, 0.54);
+}

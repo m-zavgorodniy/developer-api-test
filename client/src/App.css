@@ -1,0 +1,14 @@
+.Debug {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  border-left: 1px solid #ccc;
+}
+
+.Debug__block {
+  margin-bottom: 20px;
+  white-space: pre-wrap;
+}
