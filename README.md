@@ -14,7 +14,7 @@ The API provides the following error satus codes, accordingly to [RFC 7231](http
 - 400 Bad request - the client provided maleformed parameters
 - 404 Not found - the client requests an operation on record that does not exist or has been deleted
 
-The API is being served from [heroku][(https://developer-api-test.herokuapp.com/api/users)
+The API is being served from Heroku (https://developer-api-test.herokuapp.com/api/users)
 
 ### API Client
 
