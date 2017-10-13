@@ -16,6 +16,8 @@ The API provides the following error satus codes, accordingly to [RFC 7231](http
 
 The API is being served from [heroku][(https://developer-api-test.herokuapp.com/api/users)
 
+### API Client
+
 To consume the API please use [Custom interface](https://developer-api-client.herokuapp.com/) (implemented with React).
 The requests from the client and responds from the API responds can be watched on the right hand side panel of the interface.
 
