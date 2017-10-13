@@ -2,11 +2,11 @@
 by Maxim Zavgorodniy
 
 The API implements basic CRUD model:
-- *POST: /api/users* - Create user
-- *GET: /api/users* - Get list of users
-- *GET: /api/users/:id* - Get user by user id
-- *PUT: /api/users/:id* - Update user
-- *DELETE: /api/users/:id* - Delete user
+- *POST: /users* - Create user
+- *GET: /users* - Get list of users
+- *GET: /users/:id* - Get user by user id
+- *PUT: /users/:id* - Update user
+- *DELETE: /users/:id* - Delete user
 
 The format of the JSON follows [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
