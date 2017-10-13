@@ -19,7 +19,7 @@ The API is being served from Heroku (https://developer-api-test.herokuapp.com/ap
 ### API Client
 
 To consume the API please use [Custom interface](https://developer-api-client.herokuapp.com/) (implemented with React).
-The requests from the client and responds from the API responds can be watched on the right hand side panel of the interface.
+The requests from the client along with the responds from the API can be watched on the right hand side panel of the interface.
 
 The client is also available for review in the [client](https://github.com/superpuper/developer-api-test/tree/master/client) directory of the repo.
 
